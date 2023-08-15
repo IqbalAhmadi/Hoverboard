@@ -2,7 +2,7 @@
 
 Hoverboard with Random Color is a simple and interactive web project that allows users to hover over a dark screen area and experience a visually appealing color change each time they do so. This project is designed to provide a fun and engaging experience for users by generating random colors upon hovering. The hover effect will last for a customizable duration, adding an extra layer of interactivity to the user's interaction.
 
-[Deployed Link]() <br/>
+[Deployed Link](https://iqbalahmadi.github.io/Hoverboard/) <br/>
 
 ![Demo](./asset/Demo.gif)
 
